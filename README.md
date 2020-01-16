@@ -1,4 +1,4 @@
-# Javascript Runtime (Focus on V8)
+# Understanding Javascript Runtimes (Focused on V8)
 
 List of different resources about how Javascript runtimes works.
 
