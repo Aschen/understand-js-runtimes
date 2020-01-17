@@ -13,11 +13,17 @@ List of different resources about how Javascript runtimes works.
  - [Hidden Classes and Inline Cache Explanation](https://mathiasbynens.be/notes/shapes-ics) by Benedikt Meurer (v8) and Mathias Bynens (v8) - 2018
  - [Prototype Chain Explanation](https://mathiasbynens.be/notes/prototypes) by Benedikt Meurer (v8) and Mathias Bynens (v8) - 2018
  
+## Closures
+ - [How Closures Works](https://www.quora.com/Technically-how-do-JavaScript-closures-work) by Logan R. Kearsley - 2019
+ - [Closures Compilation and Allocation](https://stackoverflow.com/questions/36529656/when-are-closures-allocated-and-compiled-in-node-js-v8) by Bergi - 2016
+ - [Closure Context and Closure Chain](https://davidshariff.com/blog/javascript-scope-chain-and-closures/) by Davic Shariff (Amazon) - 2013
+ - [Are Arrow Function Faster](https://stackoverflow.com/questions/44030645/are-arrow-functions-faster-more-performant-lighter-than-ordinary-standalone-f/44031830) by Mathias Bynens (v8) - 2019
+ 
 ## Javascript Interpreter Workflow
 
  - [Interpreter and Compiler: hidden classes, inline caching, polymorphism and megamorphism](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553/) by Rainer Hahnekamp - 2018
- - [Interpreter Just-In-Time](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/) Alvin Wan (LogRocket) - 2019
- - [Ignition Design Document](https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?ts=56f27d9d#) rmcilroy@ and oth@ - 2016 
+ - [Interpreter Just-In-Time](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/)  by Alvin Wan (LogRocket) - 2019
+ - [Ignition Design Document](https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?ts=56f27d9d#) by rmcilroy@ and oth@ - 2016 
  - [Turbofan Speculative Optimization](https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8) by Benedikt Meurer (v8) - 2017
  - [Ignition Presentation](https://docs.google.com/presentation/d/1HgDDXBYqCJNasBKBDf9szap1j4q4wnSHhOYpaNy5mHU/edit) by Ross McIlroy (Google London)
 
