@@ -25,6 +25,6 @@ List of different resources about how Javascript runtimes works.
  
   - [Differences between Traditional interpreter, JIT compiler, JIT interpreter and AOT compiler](https://softwareengineering.stackexchange.com/questions/246094/understanding-the-differences-traditional-interpreter-jit-compiler-jit-interp) by Jörg W Mittag - 2015
   - [Micro Benchmark Issues](https://stackoverflow.com/questions/56740808/how-v8-optimise-code-using-hidden-classes-and-inline-caching) by jmrk (v8) - 2019
-  - [Various V8 Benchmarks](https://github.com/davidmarkclements/v8-perf) by David Mark Clements - 2016
+  - [Exploring v8 performance characteristics in Node](https://github.com/davidmarkclements/v8-perf) by David Mark Clements - 2016
   - [Understanding Ignition Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775) by Franziska Hinkelmann (Google) - 2017
-  - [Various V8 & Node.js Benchmarks](https://github.com/thlorenz/v8-perf/) by Thorsten Lorenz - 2018
+  - [ Notes and resources related to v8 and thus Node.js performance](https://github.com/thlorenz/v8-perf/) by Thorsten Lorenz - 2018
