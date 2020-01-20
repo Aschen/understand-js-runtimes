@@ -26,6 +26,7 @@ List of different resources about how Javascript runtimes works.
  - [Ignition Design Document](https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?ts=56f27d9d#) by rmcilroy@ and oth@ - 2016 
  - [Turbofan Speculative Optimization](https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8) by Benedikt Meurer (v8) - 2017
  - [Ignition Presentation](https://docs.google.com/presentation/d/1HgDDXBYqCJNasBKBDf9szap1j4q4wnSHhOYpaNy5mHU/edit) by Ross McIlroy (Google London)
+ - [Inline Caches with Monomorphism, Polymorphism and Megamorphism](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html) by Vyacheslav Egorov - 2015
 
 ## Others
  
