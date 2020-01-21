@@ -28,6 +28,10 @@ List of different resources about how Javascript runtimes works.
  - [Ignition Presentation](https://docs.google.com/presentation/d/1HgDDXBYqCJNasBKBDf9szap1j4q4wnSHhOYpaNy5mHU/edit) by Ross McIlroy (Google London)
  - [Inline Caches with Monomorphism, Polymorphism and Megamorphism](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html) by Vyacheslav Egorov - 2015
 
+## Tools
+
+ - [Node.js Runtime Options List](https://flaviocopes.com/node-runtime-v8-options/) - 2019
+
 ## Others
  
   - [Differences between Traditional interpreter, JIT compiler, JIT interpreter and AOT compiler](https://softwareengineering.stackexchange.com/questions/246094/understanding-the-differences-traditional-interpreter-jit-compiler-jit-interp) by Jörg W Mittag - 2015
@@ -35,3 +39,4 @@ List of different resources about how Javascript runtimes works.
   - [Exploring v8 performance characteristics in Node](https://github.com/davidmarkclements/v8-perf) by David Mark Clements - 2016
   - [Understanding Ignition Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775) by Franziska Hinkelmann (Google) - 2017
   - [ Notes and resources related to v8 and thus Node.js performance](https://github.com/thlorenz/v8-perf/) by Thorsten Lorenz - 2018
+  
