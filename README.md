@@ -3,6 +3,7 @@
 I gathered these various resources about Javascript interpreters and V8 in particular by preparing a conference on understanding how Javascript engines work.
 
 Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg3s5hBkFSIiM3z_yqwRx7C8E/edit
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Optimizations
 
