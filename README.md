@@ -1,6 +1,8 @@
 # Understanding Javascript Runtimes (Focused on V8)
 
-List of different resources about how Javascript runtimes works.
+I gathered these various resources about Javascript interpreters and V8 in particular by preparing a conference on understanding how Javascript engines work.
+
+Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg3s5hBkFSIiM3z_yqwRx7C8E/edit
 
 ## Optimizations
 
