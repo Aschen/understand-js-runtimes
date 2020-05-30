@@ -38,7 +38,8 @@ Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg
 ## Tools
 
  - [Node.js Runtime Options List](https://flaviocopes.com/node-runtime-v8-options/) - 2019
-
+ - [ESlint sort-keys rule](https://eslint.org/docs/rules/sort-keys)
+ 
 ## Others
  
   - [Differences between Traditional interpreter, JIT compiler, JIT interpreter and AOT compiler](https://softwareengineering.stackexchange.com/questions/246094/understanding-the-differences-traditional-interpreter-jit-compiler-jit-interp) by Jörg W Mittag - 2015
