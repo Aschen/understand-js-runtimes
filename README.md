@@ -9,6 +9,8 @@ We use theses informations everyday at [Kuzzle](https://github.com/kuzzleio/kuzz
 Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg3s5hBkFSIiM3z_yqwRx7C8E/edit
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+:question::question: If you have any question, you can fill an issue on this repo and I will try to answer you the best I can :point_right: [New Question](https://github.com/Aschen/understand-js-runtimes/issues/new)
+
 ## Optimizations
 
  - [Closures optimizations & reducing object size](https://www.reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/) by Petka Antonov (Bluebird) - 2019
