@@ -48,4 +48,4 @@ Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg
   - [Exploring v8 performance characteristics in Node](https://github.com/davidmarkclements/v8-perf) by David Mark Clements - 2016
   - [Understanding Ignition Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775) by Franziska Hinkelmann (Google) - 2017
   - [ Notes and resources related to v8 and thus Node.js performance](https://github.com/thlorenz/v8-perf/) by Thorsten Lorenz - 2018
-  
+  - [Understanding V8 bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775) by Franziska Hinkelmann - 2017
