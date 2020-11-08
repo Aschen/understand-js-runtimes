@@ -43,6 +43,7 @@ Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg
 
  - [Node.js Runtime Options List](https://flaviocopes.com/node-runtime-v8-options/) - 2019
  - [ESlint sort-keys rule](https://eslint.org/docs/rules/sort-keys)
+ - [Indicium - System Analyzer](https://v8.dev/blog/system-analyzer) by Zeynep Cankara - 2020
  
 ## Others
  
