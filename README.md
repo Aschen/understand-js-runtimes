@@ -22,6 +22,7 @@ Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg
  - [Hidden Classes and Inline Cache Explanation](https://mathiasbynens.be/notes/shapes-ics) by Benedikt Meurer (v8) and Mathias Bynens (v8) - 2018
  - [Prototype Chain Explanation](https://mathiasbynens.be/notes/prototypes) by Benedikt Meurer (v8) and Mathias Bynens (v8) - 2018
  - [Slack Tracking and Backing Store](https://v8.dev/blog/slack-tracking) by Michael Stanton (v8) - 2020
+ - [Fast vs Slow Properties](https://v8.dev/blog/fast-properties) by Camillo Bruni (v8) - 2017
  
 ## Closures
  - [How Closures Works](https://www.quora.com/Technically-how-do-JavaScript-closures-work) by Logan R. Kearsley - 2019
