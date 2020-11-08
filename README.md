@@ -16,11 +16,12 @@ Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg
  - [Closures optimizations & reducing object size](https://www.reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/) by Petka Antonov (Bluebird) - 2019
  - [Various Tricks to Optimize JS Code](https://alligator.io/js/v8-engine/) by Paul Ryan (Alligator) - 2019
  
-## Objects Hidden Classes
+## Objects and Properties
 
  - [Javascript Types and effect on Hidden Classes](https://v8.dev/blog/react-cliff) by Benedikt Meurer (v8) and Mathias Bynens (v8) - 2019
  - [Hidden Classes and Inline Cache Explanation](https://mathiasbynens.be/notes/shapes-ics) by Benedikt Meurer (v8) and Mathias Bynens (v8) - 2018
  - [Prototype Chain Explanation](https://mathiasbynens.be/notes/prototypes) by Benedikt Meurer (v8) and Mathias Bynens (v8) - 2018
+ - [Slack Tracking and Backing Store](https://v8.dev/blog/slack-tracking) by Michael Stanton (v8) - 2020
  
 ## Closures
  - [How Closures Works](https://www.quora.com/Technically-how-do-JavaScript-closures-work) by Logan R. Kearsley - 2019
