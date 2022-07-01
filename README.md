@@ -39,7 +39,7 @@ Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg
  - [Ignition Presentation](https://docs.google.com/presentation/d/1HgDDXBYqCJNasBKBDf9szap1j4q4wnSHhOYpaNy5mHU/edit) by Ross McIlroy (Google London)
  - [Inline Caches with Monomorphism, Polymorphism and Megamorphism](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html) by Vyacheslav Egorov - 2015 ([archive](https://web.archive.org/web/20201113212358/https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html))
  - [Inside JavaScript Engines, Part 1: Parsing](https://medium.com/@yanguly/inside-javascript-engines-part-1-parsing-c519d75833d7) by Yan Hulyi - 2022 ([archive](https://web.archive.org/web/20220627093333/https://medium.com/@yanguly/inside-javascript-engines-part-1-parsing-c519d75833d7))
- - [](https://v8.dev/blog/sparkplug#a-fast-compiler) by Leszek Swirski - 2021 ([archive](https://web.archive.org/web/20220605204039/https://v8.dev/blog/sparkplug))
+ - [Sparkplug — a non-optimizing JavaScript compiler](https://v8.dev/blog/sparkplug#a-fast-compiler) by Leszek Swirski - 2021 ([archive](https://web.archive.org/web/20220605204039/https://v8.dev/blog/sparkplug))
 
 ## Tools
 
