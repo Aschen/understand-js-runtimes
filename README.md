@@ -1,6 +1,6 @@
 # Understanding Javascript Runtimes (Focused on V8)
 
-![logo](https://user-images.githubusercontent.com/7868838/103797784-32337580-5049-11eb-8917-3fcf4487644c.png)
+![logo](https://avatars.githubusercontent.com/u/12933347)
 
 I gathered these various resources about Javascript interpreters and V8 in particular by preparing a conference on understanding how Javascript engines work.
 
