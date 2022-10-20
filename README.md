@@ -11,6 +11,11 @@ Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg
 
 :question::question: If you have any question, you can fill an issue on this repo and I will try to answer you the best I can :point_right: [New Question](https://github.com/Aschen/understand-js-runtimes/issues/new)
 
+## Event Loop and Promises
+
+ - [What is the Event Loop?](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/) by Node.js developers - 2022 ([archive](https://web.archive.org/web/20220604191227/https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/))
+ - [Faster async functions and promises](https://v8.dev/blog/fast-async) by Maya Armyanova (v8) and Benedikt Meurer (v8)- 2018 ([archive](https://web.archive.org/web/20220205034256/https://v8.dev/blog/fast-async))
+ 
 ## Optimizations
 
  - [Closures optimizations & reducing object size](https://www.reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/) by Petka Antonov (Bluebird) - 2019 ([archive](https://web.archive.org/web/20201005091343/https://www.reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/))
