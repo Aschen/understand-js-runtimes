@@ -2,6 +2,8 @@
 
 ![logo](https://avatars.githubusercontent.com/u/12933347)
 
+**Stay up to date with my technical watch** :point_right: https://links.aschen.tech/ (Or on [LinkedIn](https://www.linkedin.com/pulse/e-veille-tech-04022-apprentissage-continu-adrien-maret/))
+
 I gathered these various resources about Javascript interpreters and V8 in particular by preparing a conference on understanding how Javascript engines work.
 
 We use theses informations everyday at [Kuzzle](https://github.com/kuzzleio/kuzzle) to develop our scalable open source backend to offer the best performances to our users.
