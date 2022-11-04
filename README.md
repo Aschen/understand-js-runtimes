@@ -13,6 +13,8 @@ Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg
 
 :question::question: If you have any question, you can fill an issue on this repo and I will try to answer you the best I can :point_right: [New Question](https://github.com/Aschen/understand-js-runtimes/issues/new)
 
+Another repository with a lot of articles about Javascript Engine workflow: https://github.com/fraxken/VM-Resources
+
 ## Event Loop and Promises
 
  - [What is the Event Loop?](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/) by Node.js developers - 2022 ([archive](https://web.archive.org/web/20220604191227/https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/))
