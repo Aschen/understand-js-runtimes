@@ -6,6 +6,10 @@
 
 I gathered these various resources about Javascript interpreters and V8 in particular by preparing a conference on understanding how Javascript engines work.
 
+Dates:
+ - 2020 - Node.js Global Summit - Remote/Vietnam - Understand Javascript engines
+ - 2022 - Sunnytech - Montpellier - Comprendre le fonctionne d'un moteur Javascript
+
 We use theses informations everyday at [Kuzzle](https://github.com/kuzzleio/kuzzle) to develop our scalable open source backend to offer the best performances to our users.
 
 Link to the slides: https://docs.google.com/presentation/d/13AHi75kKZPM74pBLc9zg3s5hBkFSIiM3z_yqwRx7C8E/edit
